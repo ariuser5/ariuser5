@@ -1,4 +1,4 @@
-### Hi there 👋
+_"Newbies wear raincoats, pros wield umbrellas."_
 
 <!--
 **ariuser5/ariuser5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
